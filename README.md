@@ -96,11 +96,11 @@ The deployed Streamlit web application includes:
 
 ## f) Repository Structure
 
-project-folder/
+ml_classification_heart_data/
 │-- app.py
 │-- requirements.txt
 │-- README.md
-│-- notebook.ipynb
+│-- 2025aa05015.ipynb
 │-- model/
 *.pkl files
 
@@ -109,3 +109,4 @@ project-folder/
 ## g) Deployment
 
 The Streamlit application is deployed using Streamlit Community Cloud directly from this GitHub repository. The app provides an interactive interface to test all trained models on uploaded datasets.
+
